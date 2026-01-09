@@ -14,13 +14,10 @@ Sistema web integral para la gestión y seguimiento de cartera de créditos, dis
 - [Requisitos](#-requisitos)
 - [Instalación](#-instalación)
 - [Configuración](#-configuración)
-- [Uso](#-uso)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Base de Datos](#-base-de-datos)
 - [Credenciales de Prueba](#-credenciales-de-prueba)
 - [Capturas de Pantalla](#-capturas-de-pantalla)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
 
 ## ✨ Características
 

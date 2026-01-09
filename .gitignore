@@ -1,0 +1,47 @@
+# ========================
+# Archivos de entorno
+# ========================
+.env
+.env.*
+
+# ========================
+# Dependencias
+# ========================
+/vendor/
+/node_modules/
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+
+# ========================
+# Cache / temporales
+# ========================
+cache/
+tmp/
+*.tmp
+
+# ========================
+# Archivos del sistema
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# IDEs / editores
+# ========================
+.vscode/
+.idea/
+
+# ========================
+# Archivos compilados 
+# ========================
+dist/
+build/
+# gitignore
+echo "node_modules/" >> .gitignore
+echo "package-lock.json" >> .gitignore
+echo "package.json" >> .gitignore
+echo "uploads/" >> .gitignore  # Si crea esta carpeta

@@ -244,13 +244,16 @@ sistema-recuperaciones/
 ⚠️ **Importante:** Cambiar estas credenciales en producción
 
 ## 📸 Capturas de Pantalla
-<img width="1916" height="930" alt="image" src="https://github.com/user-attachments/assets/2a0d4902-0970-4c7e-afc0-1f5809080466" />
-<img width="1852" height="903" alt="image" src="https://github.com/user-attachments/assets/f6ea9888-68bc-49af-a113-4a34f66fa59f" />
-<img width="1827" height="861" alt="image" src="https://github.com/user-attachments/assets/f2417f1f-c37d-4a14-bcb9-443ea5493da8" />
-<img width="1821" height="868" alt="image" src="https://github.com/user-attachments/assets/fca47136-e7f0-490c-bd74-478a0b2a341d" />
-<img width="1818" height="850" alt="image" src="https://github.com/user-attachments/assets/5382e75c-b2bc-47e9-8c6b-3798b4373bb7" />
-
-<img width="1908" height="928" alt="image" src="https://github.com/user-attachments/assets/8232c464-87b5-4055-ab3c-a0512cfdb74d" />
+<img width="1911" height="930" alt="image" src="https://github.com/user-attachments/assets/61d00747-78c9-4235-8c0f-91d64879eec2" />
+<img width="1915" height="938" alt="image" src="https://github.com/user-attachments/assets/5e8c412a-e022-461b-93af-065e31bf25dc" />
+<img width="1912" height="944" alt="image" src="https://github.com/user-attachments/assets/fa4dca8d-1b1e-4ffc-aecb-e0b27986f0bb" />
+<img width="1870" height="866" alt="image" src="https://github.com/user-attachments/assets/ba4e9931-e769-4ba0-b003-5586ce69cb0c" />
+<img width="1910" height="929" alt="image" src="https://github.com/user-attachments/assets/5ed36d39-7d44-4e01-a74d-3936489e358e" />
+<img width="1878" height="867" alt="image" src="https://github.com/user-attachments/assets/e15091f4-eec2-427c-84a8-92670e1eea9e" />
+<img width="1912" height="872" alt="image" src="https://github.com/user-attachments/assets/236f00d3-1a30-4079-ae9e-56eb61d7e8ae" />
+<img width="1909" height="869" alt="image" src="https://github.com/user-attachments/assets/32324265-3bf9-416c-8528-909c0fd68bce" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/3c1c1e1f-9b6a-4ada-95a2-a23b6a7abea9" />
+<img width="1918" height="939" alt="image" src="https://github.com/user-attachments/assets/db91c8c2-fbe2-4df6-a533-0ba15e2c9fc2" />
 
 
 ### Datos de Ejemplo
@@ -269,9 +272,8 @@ La base de datos incluye 40 contratos de ejemplo con datos ficticios para propó
 - [ ] Exportación de reportes a PDF
 - [ ] Envío de notificaciones por correo
 - [ ] Panel de analytics avanzado
-- [ ] API REST para integraciones
 - [ ] Sistema de bitácora de cambios
-- [ ] Recordatorios de vencimientos
+- [ ] Mejorar la seguridad del sistema
 - [ ] Otras mas...
 
 ## 👨‍💻 Autor
